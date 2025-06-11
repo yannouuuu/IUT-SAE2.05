@@ -11,6 +11,7 @@
     <br/>
     Skedule, ease your time management
     <br/>
+    <br/>
     <picture>
         <img alt="skedulebanner" src="./.github/assets/skedulebanner.png">
     </picture>
