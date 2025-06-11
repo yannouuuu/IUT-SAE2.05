@@ -11,11 +11,9 @@
     <br/>
     Skedule, ease your time management
     <br/>
-    <p align="center">
-      <picture>
-          <img alt="skedulebanner" src="./.github/assets/skedulebanner.png">
-      </picture>
-    </p>
+    <picture>
+        <img alt="skedulebanner" src="./.github/assets/skedulebanner.png">
+    </picture>
     <br/>
     <a href="https://moodle.univ-lille.fr/course/view.php?id=30827&sectionid=451840"><strong>Voir la page sur le moodle »</strong></a>
     <br/>
